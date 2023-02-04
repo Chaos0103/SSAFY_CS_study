@@ -53,8 +53,8 @@
             <br/>
         </td>
         <td align="center">
-            <a href="https://github.com/leeyr0412">
-                <img src="https://avatars.githubusercontent.com/u/64480162?v=4?s=100" width="100px;" alt=""/>
+            <a href="https://github.com/tngus2sh">
+                <img src="https://avatars.githubusercontent.com/u/101691649?v=4?s=100" width="100px;" alt=""/>
                 <br/>
                 <sub>
                     <b>소수현</b>
